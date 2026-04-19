@@ -1,0 +1,21 @@
+PolicyID,PolicyName,LaunchDate,Category,Description,ImpactArea,CompletionRate,RelatedIndex
+P001,National Education Policy (NEP 2020),29-07-2020,Governance,Approved by the Union Cabinet — foundation of all reforms.,Quality,100,QualityIndex
+P002,PM e-Vidya / DIKSHA Digital Platform,17-05-2021,Digital,Unified digital learning infrastructure for all grades.,Access,90,EquityIndex
+P003,NIPUN Bharat Mission,05-07-2021,Governance,Foundational literacy & numeracy by 2026–27.,Access,85,EquityIndex
+P004,Samagra Shiksha Abhiyan 2.0,07-08-2021,Infrastructure,Integrated scheme for school education — upgraded post-NEP.,Infrastructure,80,AccessIndex
+P005,National Curriculum Framework (NCF 2022),29-09-2022,Curriculum,New school & teacher education frameworks aligned with NEP.,Quality,75,QualityIndex
+P006,National Digital Education Architecture (NDEAR),04-07-2022,Digital,Digital framework for education systems (Govt. of India).,Infrastructure,70,QualityIndex
+P007,AICTE Teacher Training & Capacity Building,18-11-2022,Teacher Training,Upskilling of faculty through AICTE & NITTTR initiatives.,Quality,68,QualityIndex
+P008,National Credit Framework (NCrF),11-10-2022,Curriculum,"Credit framework integrating school, HE, and skilling.",Governance,77,EquityIndex
+P009,PM SHRI Schools Scheme,05-09-2022,Infrastructure,"14,500 schools to showcase NEP-aligned practices.",Infrastructure,82,AccessIndex
+P010,National Higher Education Qualification Framework (NHEQF),11-01-2023,Curriculum,"Defines HE levels, learning outcomes, and progression.",Quality,65,QualityIndex
+P011,Teacher Education Reform Program (NCTE),28-03-2023,Teacher Training,New 4-year ITEP B.Ed program introduced under NEP.,Governance,72,EquityIndex
+P012,National Research Foundation Bill 2023,08-08-2023,Governance,Creates NRF to fund research & innovation in HEIs.,Quality,83,QualityIndex
+P013,Digital University India Initiative,28-02-2023,Digital,Online university model announced under Digital India.,Access,79,EquityIndex
+P014,State Education Reform Partnership Model,15-01-2024,Governance,States align policies with NEP 2020 implementation targets.,Governance,60,EquityIndex
+P015,School Infrastructure Modernization Phase I,21-06-2024,Infrastructure,"Smart classrooms, labs, and inclusive facilities upgrade.",Infrastructure,55,AccessIndex
+P016,National Digital Library Mission (Expansion),06-03-2024,Digital,NDLI extended with multilingual & open-access content.,Access,78,QualityIndex
+P017,Udaan — Girls’ Education & Equity Drive,11-10-2024,Governance,Gender equity and girl-child enrollment initiative.,Equity,82,EquityIndex
+P018,National Skill and Employability Mission (NEP Integration),09-05-2024,Teacher Training,Aligns vocational education and skills with NEP vision.,Equity,74,EquityIndex
+P019,Foundational Stage Curriculum Implementation (Pre-Primary to Grade 2),17-01-2025,Curriculum,Full NEP rollout at foundational stage (NCF-FS 2022).,Quality,88,QualityIndex
+P020,Inclusive Education & Digital Access Mission,22-07-2025,Digital,Universal access to digital learning devices & content.,Access,65,AccessIndex
